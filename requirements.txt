@@ -1,0 +1,8 @@
+kafka-python~=2.3.0
+
+jupyter~=1.1.1
+pip~=23.2.1
+attrs~=25.4.0
+wheel~=0.41.2
+pandas~=2.3.3
+pyspark~=3.5.1
